@@ -22,7 +22,7 @@ Sanitize a string of HTML content, returning a sanitized string.
 ## example
 
 ```js
-var sanitize = require('sanitize');
+var sanitize = require('sanitize-caja');
 
 document.write(sanitize(evilUserInput));
 ```
