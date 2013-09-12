@@ -1,0 +1,22 @@
+{
+  "name": "sanitize-caja",
+  "version": "0.0.0",
+  "description": "sanitize html using caja and reasonable assumptions",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "keywords": [
+    "sanitize",
+    "html"
+  ],
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "expect.js": "~0.2.0",
+    "mocha": "~1.12.1"
+  }
+}
