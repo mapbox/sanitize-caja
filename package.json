@@ -1,6 +1,6 @@
 {
   "name": "sanitize-caja",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "sanitize html using caja and reasonable assumptions",
   "main": "index.js",
   "directories": {
