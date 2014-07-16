@@ -20,6 +20,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mapbox/sanitize-caja.js.git"
+    "url": "git://github.com/mapbox/sanitize-caja.git"
   }
 }
