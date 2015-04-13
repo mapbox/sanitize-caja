@@ -1078,6 +1078,7 @@ html4.eflags = {
   'VIRTUALIZED': 256
 };
 html4[ 'eflags' ] = html4.eflags;
+// these are bitmasks of the eflags above.
 html4.ELEMENTS = {
   'a': 0,
   'abbr': 0,
@@ -1138,7 +1139,7 @@ html4.ELEMENTS = {
   'hr': 2,
   'html': 305,
   'i': 0,
-  'iframe': 4,
+  'iframe': 16,
   'img': 2,
   'input': 2,
   'ins': 0,
