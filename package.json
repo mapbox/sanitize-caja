@@ -7,8 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "tape test/*.js",
-    "cov": "istanbul cover test/*.js"
+    "test": "tape test/*.js"
   },
   "keywords": [
     "sanitize",
@@ -17,8 +16,7 @@
   "author": "Tom MacWright",
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "tape": "~2.14.0",
-    "istanbul": "~0.3.0"
+    "tape": "~4.0.0"
   },
   "repository": {
     "type": "git",
