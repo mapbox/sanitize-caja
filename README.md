@@ -17,12 +17,12 @@ Sanitize a string of HTML content, returning a sanitized string.
 
 ## install
 
-    npm install sanitize-caja
+    npm install @mapbox/sanitize-caja
 
 ## example
 
 ```js
-var sanitize = require('sanitize-caja');
+var sanitize = require('@mapbox/sanitize-caja');
 
 document.write(sanitize(evilUserInput));
 ```
