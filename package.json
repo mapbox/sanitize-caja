@@ -1,5 +1,5 @@
 {
-  "name": "sanitize-caja",
+  "name": "@mapbox/sanitize-caja",
   "version": "0.1.4",
   "description": "sanitize html using caja and reasonable assumptions",
   "main": "index.js",
